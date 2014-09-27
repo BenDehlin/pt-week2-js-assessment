@@ -1,4 +1,4 @@
-//Create a function called User which has the following properties
+//Create an object called User which has the following properties
 //username, email, password, birthday
 
   //code here
